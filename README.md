@@ -154,6 +154,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kidd0x/kidd0x/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
